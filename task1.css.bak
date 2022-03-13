@@ -1,0 +1,64 @@
+body
+{
+	background-image:url('https://images3.alphacoders.com/105/thumb-1920-1056584.jpg')
+}	
+h2
+{
+	color:white;
+	position:relative;
+	left:100px;
+	
+}
+h3
+{
+	color:white;
+}
+.login
+{
+background-color:black;
+border-width:5px;
+border-color:black;
+border-style:solid;	
+margin-left:250px;
+margin-right:250px;
+margin-top:50px;
+padding-right:20px;
+padding-left:20px;
+padding-bottom:70px;
+position:absolute;
+left: 280px;
+top:75px;
+
+}
+input
+{
+	width:300px;
+}
+.ko
+{
+height:30px;
+Background-color:red;
+border-width:1px;
+border-color:red;
+border-radius:20px;
+border-style:solid;
+
+}
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: green;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
